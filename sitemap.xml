@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="https://aleksa1232.github.io/as/">
     <url>
-        <loc>http://www.yourwebsite.com/index.html</loc>
+        <loc>http:https://aleksa1232.github.io/as/index.html</loc>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://www.yourwebsite.com/o-nama.html</loc>
+        <loc>http://aleksa1232.github.io/as/o-nama.html</loc>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://www.yourwebsite.com/a-kategorija.html</loc>
+        <loc>https://aleksa1232.github.io/as/a-kategorija.html</loc>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.yourwebsite.com/a-kategorija-cenovnik.html</loc>
+        <loc>http:https://aleksa1232.github.io/as/a-kategorija-cenovnik.html</loc>
         <priority>0.6</priority>
     </url>
     <url>
-        <loc>http://www.yourwebsite.com/b-kategorija.html</loc>
+        <loc>http:https://aleksa1232.github.io/as/b-kategorija.html</loc>
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>http://www.yourwebsite.com/b-kategorija-cenovnik.html</loc>
+        <loc>http:https://aleksa1232.github.io/as/b-kategorija-cenovnik.html</loc>
         <priority>0.6</priority>
     </url>
 </urlset>
